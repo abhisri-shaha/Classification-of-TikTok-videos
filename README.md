@@ -26,7 +26,7 @@ TikTok is working on the development of a predictive model that can determine wh
 
 ### Data cleaning 
 - **Outlier Removal**: Identify and remove outliers from count variables (e.g., view count, like count) to ensure robust statistical analysis.
-- 
+
 ## Hypothesis Testing
 - **Objective**: Determine if there is a statistically significant difference between the view count of videos posted by verified accounts and those posted by unverified accounts on TikTok.
 - **Method**: Conduct a two-sample t-test.
